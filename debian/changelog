@@ -1,3 +1,9 @@
+base-files (20.1.0hamonikr7) public; urgency=medium
+
+    * changed lsb-release, info for HamoniKR 5.0
+
+ -- HamoniKR Team <pkg@hamonikr.org>  Wed, 07 Apr 2021 18:43:48 +0900
+
 base-files (20.1.0hamonikr6) entjin; urgency=medium
 
   * only version up

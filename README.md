@@ -1,6 +1,6 @@
-## base-files for HamoniKR 4.0
+## base-files for HamoniKR 5.0
 
- * high aot pinnig required, before install (hamonikr-info pkg)
+ * high apt pinnig required, before install (hamonikr-info pkg)
 
 ## build
 
