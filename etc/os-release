@@ -1,0 +1,13 @@
+NAME="HamoniKR-Server"
+VERSION="2.0 (EntJin)"
+ID=hamonikr
+ID_LIKE=ubuntu
+PRETTY_NAME="HamoniKR Server 2.0 EntJin"
+VERSION_ID="2.0"
+HOME_URL="https://www.hamonikr.org/"
+SUPPORT_URL="https://hamonikr.org/"
+BUG_REPORT_URL="https://hamonikr.org/hamoni_board"
+PRIVACY_POLICY_URL="https://hamonikr.org/page_YaNU21/"
+VERSION_CODENAME=ulyana
+UBUNTU_CODENAME=focal
+HAMONIKR_CODENAME=entjin
