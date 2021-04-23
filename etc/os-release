@@ -1,8 +1,8 @@
 NAME="HamoniKR"
-VERSION="5.0 (Public)"
+VERSION="5.0 (Hanla)"
 ID=hamonikr
 ID_LIKE=ubuntu
-PRETTY_NAME="HamoniKR 5.0 Public"
+PRETTY_NAME="HamoniKR 5.0 Hanla"
 VERSION_ID="5.0"
 HOME_URL="https://www.hamonikr.org/"
 SUPPORT_URL="https://hamonikr.org/"
@@ -10,4 +10,4 @@ BUG_REPORT_URL="https://hamonikr.org/hamoni_board"
 PRIVACY_POLICY_URL="https://hamonikr.org/page_YaNU21/"
 VERSION_CODENAME=ulyssa
 UBUNTU_CODENAME=focal
-HAMONIKR_CODENAME=public
+HAMONIKR_CODENAME=hanla
