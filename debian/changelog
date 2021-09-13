@@ -1,3 +1,9 @@
+base-files (20.2.0hamonikr9) hanla; urgency=medium
+
+  * change lsb-release, info, os-releases for HamoniKR 5.0 hanla
+
+ -- HamoniKR Team <pkg@hamonikr.org>  Mon, 13 Sep 2021 13:49:38 +0900
+
 base-files (20.2.0hamonikr8) hanla; urgency=medium
 
   * Update distribution files
